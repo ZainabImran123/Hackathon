@@ -1,0 +1,140 @@
+.navbar{
+    height: 80px;
+    width: 1570px;
+    background-color: white;
+    margin-left: -140px;
+    position: fixed;
+}
+.side{
+    margin-left: 1100px;
+    gap: 15px;
+}
+.navlink{
+    gap: 200px;
+}
+.icon{
+    margin-right: 30px;
+    margin-top: 5px;
+    gap: 39px;
+}
+.our{
+    margin-left:-89px;
+    margin-top: -4px;
+}
+.ourr{
+    margin-right: 23px;
+    margin-top: -4px;
+}
+.contact{
+    color: white;
+    background-color: #7C4EE4;
+    border-radius: 3px;
+    border: none;
+    width: 120px;
+    height: 35px;
+    margin-left: 6px;
+}
+.header{
+    width: 1570px;
+    height: 750px;
+    background-color: #7C4EE4;
+    margin-left: -140px;
+}
+.how{
+    height: 150px;
+    width: 520px;
+    color: white;
+    padding-top: 250px;
+    margin-left: 70px;
+}
+.the{
+    margin-top: 140px;
+    margin-left: 70px;
+    color: white;
+}
+.diamond{
+    width: 540px;
+    height: 500px;
+    margin-left: 860px;
+    margin-top: -370px;
+}
+.logo{
+    margin-left: 50px;
+}
+.read{
+    color: black;
+    background-color: white;
+    width: 130px;
+    height: 33px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.big{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+}
+.boy{
+    width: 1400px;
+    height: 500px;
+    margin: 0 auto;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.big2{
+   
+}
+.box{
+    background-color: white;
+    height: 200px;
+    width: 600px;
+    margin-top: -200px;
+    margin-left: 300px;
+}
+
+.contact1{
+    color: white;
+    background-color: #7C4EE4;
+    border-radius: 3px;
+    border: none;
+    width: 120px;
+    height: 35px;
+    margin-left: 6px;
+    margin-top: -20px;
+    margin-left: 1100px;
+}
+h2{
+    margin-left: 220px;
+    margin-top: 500px;
+    color: black;
+}
+.boy1{
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+h4{
+    margin-left: 750px;
+    margin-top: -250px;
+    color: black;
+}
+.to{
+    width: 550px;
+    margin-left: 750px;
+}
+button{
+    color: blue;
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 3px;
+    margin-left: 750px;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
